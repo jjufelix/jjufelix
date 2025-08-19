@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou Julia
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End.
 
 ---
 
@@ -63,11 +63,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no SESI/SENAI
+- 💻 Estou aprendendo Densenvolvimento de Sistemas
+- 🎯 Meu objetivo é obter o máximo de conhcecimento para epandir minhas oportunidades de trabalho.
+- 📚 Gosto de aprender sobre Psicologia, Esportes, Inglês
+- ✝ Tudo posso Naquele que me fortalece.
 
 ---
 
